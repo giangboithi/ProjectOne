@@ -7,6 +7,7 @@ nav{
     padding: 10px;
     text-align: right;
     margin-right: 30px;
+    
  a{  
     text-decoration: none;
     color:#79a3d7;
@@ -78,4 +79,11 @@ a{
   font-weight: regular;
 font-size: 18px;
 color: #e9ebe5;
+}
+
+#homebanner{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    
 }
