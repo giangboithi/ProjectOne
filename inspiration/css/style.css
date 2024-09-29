@@ -34,7 +34,6 @@ h1{
   font-weight: bold;
 font-size: 40px;
     color: #343434;
-    margin-left: 20px;
     text-align: center;
 }
 }
@@ -64,7 +63,7 @@ margin-right: 30px;
           font-weight: regular;
         font-size: 18px;
         color: #343434;
-        margin-left: 8%;
+        margin-left: 3%;
         }
         footer{
             background-color: pink;
