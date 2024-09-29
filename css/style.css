@@ -13,6 +13,7 @@ nav{
     font-family: "Playpen Sans", cursive;
   font-weight: normal;
 font-size: 20px;
+margin: 3px;
  }
 }
 
@@ -53,7 +54,7 @@ img{
 button{
 background-color: #e9ebe5;
     border: none; 
-    margin: 8px 2px;
+    margin: 10px 4px;
     border-radius: 12px; 
     transition-duration: 0.3s;
 }
